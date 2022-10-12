@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://telegra.ph/file/8e6ba7c27828b5af4c08b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
 <h1 align="center">Hi 👋, I'm Mythia</h1>
 <h3 align="center">Bukan suhu , cuma tukang copas , dan remake remake sc ga jelas , yap support terus yahh</h3>
 
